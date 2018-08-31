@@ -1,2 +1,2 @@
 # Cydia/Sileo Repository Backup
-http://repo.owlly.me/
+https://repo.owlly.me/
