@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/owllyme</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>Tweak submission</name>
+			<url>mailto:hrdtr@owlly.me?Subject=Repo%20Submission</url>
+			<iconclass>fa fa-star</iconclass>
+		</link>
+	</footerlinks>
+</repo>

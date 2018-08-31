@@ -1,0 +1,50 @@
+Package: me.owlly.i8corners
+Version: 0.12
+Architecture: iphoneos-arm
+Maintainer: Owlly <hrdtr@owlly.me>
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: ./i8Corners.deb
+Size: 15272
+MD5sum: 25ec2e7c94ceea80d3d88913189e1b36
+SHA1: 48b1362d1e80e3a03d6721f90c5f95ca96ca9a59
+SHA256: 630e264c87eb36e57d3b96c7d25f053c0162b401d814c9cde4853f849ae1ca54
+Section: Tweaks
+Description: iPhone 8 inspired screen corners
+Author: Antique <boernai290@gmail.com>
+Depiction: https://repo.owlly.me/depictions/?p=me.owlly.i8corners
+Name: i8Corners
+
+Package: me.owlly.nomoreseparators
+Version: 0.0.1-54
+Architecture: iphoneos-arm
+Maintainer: Owlly <hrdtr@owlly.me>
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./NoMoreSeparators.deb
+Size: 4344
+MD5sum: 482298ca8679b46e0ebb386d60f30d10
+SHA1: 75ced277c32ed5add2dfa396a22f350130a61974
+SHA256: 02fd9fc5e49a46c4dce13bd56c579db30697af84ee29715e8d2dfdb3ca7cbe04
+Section: Tweaks
+Description: A tweak to remove the table view separators
+Author: Umar
+Depiction: https://repo.owlly.me/depictions/?p=me.owlly.nomoreseparators
+Name: NoMoreSeparators
+
+Package: me.owlly.testpackage
+Version: 2.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Owlly <hrdtr@owlly.me>
+Depends: firmware (>7.0), mobilesubstrate
+Filename: ./TestPackage.deb
+Size: 972
+MD5sum: aee6db202dbcf1b29bd933c97a34913d
+SHA1: 600cc4beb1c143414135f7b4fc7ed0f10ae7bffb
+SHA256: 36bd8a8993ae1266eaf5a118e575861ff73108f9a6ceeeab2897fdf7a729acb2
+Section: Tweaks
+Description: This is a sample new package. Do not install this.
+Author: Owlly <hrdtr@owlly.me>
+Depiction: https://repo.owlly.me/depictions/?p=me.owlly.testpackage
+Name: Test Package
+

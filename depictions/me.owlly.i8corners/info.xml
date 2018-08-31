@@ -1,0 +1,27 @@
+<package>
+	<id>me.owlly.i8corners</id>
+	<name>i8Corners</name>
+	<version>0.12</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>iPhone 8 inspired screen corners</shortDescription>
+	<descriptionlist>
+		<description>iPhone 8 inspired screen corners.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Changelog unavailable</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
