@@ -1,5 +1,5 @@
 # Cydia/Sileo Repository Backup
-<a href="https://repo.owlly.me/" target="_blank">link to repo</a>
+<a href="https://repo.owlly.me/" target="_blank">Link to repo</a>
 
 # Credits
 <blockquote>
