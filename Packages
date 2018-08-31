@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Owlly <hrdtr@owlly.me>
 Installed-Size: 352
 Depends: mobilesubstrate
-Filename: ./i8Corners.deb
+Filename: ./debs/i8Corners.deb
 Size: 15272
 MD5sum: 25ec2e7c94ceea80d3d88913189e1b36
 SHA1: 48b1362d1e80e3a03d6721f90c5f95ca96ca9a59
@@ -21,7 +21,7 @@ Architecture: iphoneos-arm
 Maintainer: Owlly <hrdtr@owlly.me>
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: ./NoMoreSeparators.deb
+Filename: ./debs/NoMoreSeparators.deb
 Size: 4344
 MD5sum: 482298ca8679b46e0ebb386d60f30d10
 SHA1: 75ced277c32ed5add2dfa396a22f350130a61974
@@ -32,12 +32,31 @@ Author: Umar
 Depiction: https://repo.owlly.me/depictions/?p=me.owlly.nomoreseparators
 Name: NoMoreSeparators
 
+Package: me.owlly.semirestore11
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Owlly <hrdtr@owlly.me>
+Installed-Size: 188
+Depends: cy+cpu.arm64, coreutils-bin, firmware (>= 11.3), firmware (<< 11.4.1)
+Conflicts: org.coolstar.semirestore11-lite
+Replaces: org.coolstar.semirestore11-lite
+Filename: ./debs/me.owlly.semirestore11_1.1-1_iphoneos-arm.deb
+Size: 50784
+MD5sum: 9274f7256af318fcdba2c8403de5e71d
+SHA1: d175d2540449c121c45da76605c06847e1c11fd8
+SHA256: 96e001ab665e7328a91858acd256f20c0c576c3043e4eaa52fe17df66e258d20
+Section: System
+Description: A full system unjailbreaker that supports all devices running iOS 11.3 to 11.4 Beta 3.
+Author: Pwn20wnd <pwn20wndstuff@gmail.com>
+Depiction: https://repo.owlly.me/depictions/?p=me.owlly.semirestore11
+Name: SemiRestore11/Rollectra
+
 Package: me.owlly.testpackage
 Version: 2.0.0-1
 Architecture: iphoneos-arm
 Maintainer: Owlly <hrdtr@owlly.me>
 Depends: firmware (>7.0), mobilesubstrate
-Filename: ./TestPackage.deb
+Filename: ./debs/TestPackage.deb
 Size: 972
 MD5sum: aee6db202dbcf1b29bd933c97a34913d
 SHA1: 600cc4beb1c143414135f7b4fc7ed0f10ae7bffb
