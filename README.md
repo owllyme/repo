@@ -2,5 +2,7 @@
 <a href="https://repo.owlly.me/" target="_blank">link to repo</a>
 
 # Credits
-<br>@Antique_Dev</br>
-<br>@Supermamon</br>
+<blockquote>
+<p>@Antique_Dev</p>
+<p>@Supermamon</p>
+</blockquote>
