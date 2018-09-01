@@ -51,6 +51,23 @@ Author: Pwn20wnd <pwn20wndstuff@gmail.com>
 Depiction: https://repo.owlly.me/depictions/?p=me.owlly.semirestore11
 Name: SemiRestore11/Rollectra
 
+Package: me.owlly.smartlpm
+Version: 1.3.0-1
+Architecture: iphoneos-arm
+Maintainer: Owlly <hrdtr@owlly.me>
+Installed-Size: 332
+Depends: mobilesubstrate
+Filename: ./debs/me.owlly.smartlpm_1.3.0-1_iphoneos-arm.deb
+Size: 146056
+MD5sum: a94261b6c30d568e888af2e0f1ec62ce
+SHA1: adfc59e9e370f58fb15c242603ca106ae528c79f
+SHA256: a8f5e0312766d9cc9a2212d5e05708ec7d15a8cd8a7e37205d040ec694660197
+Section: Tweaks
+Description: A smarter low power mode. Low power while device is locked. Turn low power mode on automatically at the battery level you specify. Enable low power while charging. And more....
+Author: smokin1337
+Depiction: https://repo.owlly.me/depictions/?p=me.owlly.smartlpm
+Name: SmartLPM
+
 Package: me.owlly.testpackage
 Version: 2.0.0-1
 Architecture: iphoneos-arm
