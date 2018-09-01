@@ -1,0 +1,27 @@
+<package>
+	<id>me.owlly.smartlpm</id>
+	<name>SmartLPM</name>
+	<version>1.3.0-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>A smarter low power mode.</shortDescription>
+	<descriptionlist>
+		<description>A smarter low power mode. Low power while device is locked. Turn low power mode on automatically at the battery level you specify. Enable low power while charging. And more....</description>
+	</descriptionlist>
+	<changelog>
+		<change>Changelog unavailable</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
