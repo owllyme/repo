@@ -33,18 +33,18 @@ Depiction: https://repo.owlly.me/depictions/?p=me.owlly.nomoreseparators
 Name: NoMoreSeparators
 
 Package: me.owlly.semirestore11
-Version: 1.1-1
+Version: 1.1.2-1
 Architecture: iphoneos-arm
 Maintainer: Owlly <hrdtr@owlly.me>
-Installed-Size: 188
+Installed-Size: 172
 Depends: cy+cpu.arm64, coreutils-bin, firmware (>= 11.3), firmware (<< 11.4.1)
 Conflicts: org.coolstar.semirestore11-lite
 Replaces: org.coolstar.semirestore11-lite
-Filename: ./debs/me.owlly.semirestore11_1.1-1_iphoneos-arm.deb
-Size: 50784
-MD5sum: 9274f7256af318fcdba2c8403de5e71d
-SHA1: d175d2540449c121c45da76605c06847e1c11fd8
-SHA256: 96e001ab665e7328a91858acd256f20c0c576c3043e4eaa52fe17df66e258d20
+Filename: ./debs/me.owlly.semirestore11_1.1.2-1_iphoneos-arm.deb
+Size: 50736
+MD5sum: 22629db3575595ef2955f16a686f84be
+SHA1: 93aac462a0f6a3c4e75a5a7c6f9a65b1f44b330e
+SHA256: 40ebe90d035200fd26cbf0bf25adf263b80cfd41707b38bab1bd9da20fc4ec8e
 Section: System
 Description: A full system unjailbreaker that supports all devices running iOS 11.3 to 11.4 Beta 3.
 Author: Pwn20wnd <pwn20wndstuff@gmail.com>
